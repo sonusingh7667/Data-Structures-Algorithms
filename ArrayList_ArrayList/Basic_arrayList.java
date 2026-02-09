@@ -4,6 +4,13 @@ import java.util.ArrayList;
 
 public class Basic_arrayList {
     public static void main(String[] args){
+
+        // ArrayList<Integer> list = new ArrayList<>();
+        // ArrayList<String> list = new ArrayList<>(); //this is the ways to write ArrayList
+        // ArrayList<Boolean> list = new ArrayList<>();
+        
+    
+        
         ArrayList<Integer> list = new ArrayList<>();
         list.add(81);
         list.add(29);
@@ -55,3 +62,4 @@ public class Basic_arrayList {
 
     }
 }
+
