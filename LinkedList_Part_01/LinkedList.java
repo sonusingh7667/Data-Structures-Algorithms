@@ -15,6 +15,7 @@ public class LinkedList {
     public static Node head;
     public static Node tail;
     public static int size;
+    System.out.println("Hello");
 
 
     public void AddFirst(int data) {
@@ -316,3 +317,4 @@ public class LinkedList {
 
     }
 }
+
