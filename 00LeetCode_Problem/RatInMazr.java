@@ -34,6 +34,7 @@ class Solution {
 
         // backtrack
         visited[i][j] = false;
+        false false false...
     }
 
     public static void main(String[] args) {
