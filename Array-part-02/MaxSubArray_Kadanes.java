@@ -19,6 +19,7 @@ public class MaxSubArray_Kadanes {
 
     public static void main(String[] args){
         int number[] = {-2,-3,4,-1,-2,1,5,-3};
-        Kadanes(number);
+        Kadanes(number);;;;;;;;;;
     }
 }
+
